@@ -15,6 +15,7 @@ Improve my **documentation skills** and solidify my **technical knowledge** in w
 | Lab Topic | Brief Description | Status |
 |:---|:---|:---:|
 | [Basic WLC & AP Management](./Lab_Basic-WLC-and-AP-Management) | Configure basic WLC management IP, admin account, Lightweight AP join process via trunk ports, DHCP integration from Router, create a SSID and test wireless connectivity from end devices. | ✅ Done |
+| [Multi-VLANs AP Management with WLC](./Lab_Multi-VLAN_WLC_AP_Management) | Configure multi-VLAN segmentation (VLAN 10/20/30) with WLC dynamic interfaces, Router-on-a-Stick for inter-VLAN routing, DHCP relay from external DHCP Server, SSID mapping per VLAN (WLAN_10/20/30 with passwords), and verify inter-VLAN connectivity. | ✅ Done |
 
 *Click on the Lab Topic to view details, topology, and configurations.*
 
